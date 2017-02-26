@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestLibrary2
+namespace ExampleTestLibrary
 {
     public interface IUser
     {

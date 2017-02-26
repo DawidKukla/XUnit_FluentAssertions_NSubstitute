@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using FluentAssertions;
-using NSubstitute;
-using NSubstitute.ExceptionExtensions;
-using NSubstitute.ReturnsExtensions;
 using Xunit;
 
-namespace TestLibrary2
+namespace ExampleTestLibrary
 {
     
     public class TreeTests

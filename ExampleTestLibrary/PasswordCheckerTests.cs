@@ -1,11 +1,10 @@
 ﻿using System;
 using FluentAssertions;
 using NSubstitute;
-using NSubstitute.ExceptionExtensions;
 using NSubstitute.ReturnsExtensions;
 using Xunit;
 
-namespace TestLibrary2
+namespace ExampleTestLibrary
 {
     
     public class PasswordCheckerTests
